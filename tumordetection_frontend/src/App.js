@@ -10,7 +10,7 @@ function App() {
 
     <MainWrapper>
       <div className='test'>
-        <Header className='header'>TUMO</Header>
+        <Header className='header'>TUMOR DETECTION</Header>
       </div>
       <div className='mid-bar'></div>
       <div className='area'>
