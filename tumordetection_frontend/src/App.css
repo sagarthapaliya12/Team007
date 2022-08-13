@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
 .App {
   text-align: center;
   font-style: 'Nunito';
@@ -187,13 +188,6 @@
 .test {
   background-color: #7ea2b4;
 
-}
-
-.main-container{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
 }
 
 .button-container{
