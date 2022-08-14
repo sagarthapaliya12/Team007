@@ -5,6 +5,8 @@ In order to demonstrate the the project we use Gradio as web application.
 
 Members of team are:-
 
-Sagar Raj Thapaliya
-Anurag Karki
+Sagar Raj Thapaliya,
+
+Anurag Karki,
+
 Ngawang Gurung
